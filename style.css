@@ -1,7 +1,9 @@
-
+h1 {
+    text-align: center;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: medium;
 }
 table {
     border-collapse: collapse;
@@ -17,7 +19,6 @@ td,th {
 thead {
     background-color: gray;
     color: white;
-    font-size: 14px;
 }
 
 th {
@@ -28,7 +29,7 @@ th {
 
 .intervalo {
     background-color: rgb(241, 236, 227);
-    font-size: 10px;
+    font-size: xx-small;
 
 }
 .turno>td{
